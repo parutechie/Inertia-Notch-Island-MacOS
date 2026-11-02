@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4CA40B4B-5779-4CD3-8265-DFA236206030"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15AAB6AF-D286-483D-B1D8-59CE74D7E5B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotchApp/Managers/BluetoothManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "BluetoothManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "15AAB6AF-D286-483D-B1D8-59CE74D7E5B7 - 495590aef522b351"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for shared"
+                  moduleName = "Inertia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/NotchApp/NotchApp/Managers/BluetoothManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+               <Location
+                  uuid = "15AAB6AF-D286-483D-B1D8-59CE74D7E5B7 - e9c12d8dcc6bbf59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;Inertia.GeneralSettingsPage, Inertia.FocusSettingsPage&gt;, SwiftUI._ConditionalContent&lt;Inertia.SoundSettingsPage, Inertia.BrightnessSettingsPage&gt;&gt;, SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;Inertia.BatterySettingsPage, Inertia.AudioSettingsPage&gt;, SwiftUI._ConditionalContent&lt;Inertia.MusicSettingsPage, Inertia.CalendarSettingsPage&gt;&gt;&gt;, SwiftUI._ConditionalContent&lt;Inertia.PermissionsSettingsPage, Inertia.AboutSettingsPage&gt;&gt; in Inertia.SettingsRootView.pageContent.getter : some"
+                  moduleName = "Inertia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/NotchApp/NotchApp/Managers/BluetoothManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
