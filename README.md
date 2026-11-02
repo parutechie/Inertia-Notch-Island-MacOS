@@ -18,32 +18,29 @@ Click or hover over the notch to expand the island and reach everyday tools with
 
 ## 📸 Screenshots
 
-<div align="center">
+<p align="center">
+  <img src="Assests/Screenshot 2026-11-02 at 6.34.35 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.27 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.47 PM.png" width="250">
+</p>
 
-<table>
-  <tr>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.34.35%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.35.27%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.35.47%20PM.png" width="250"></td>
-  </tr>
-  <tr>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.35.50%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.35.53%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.35.56%20PM.png" width="250"></td>
-  </tr>
-  <tr>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.35.58%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.36.01%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.36.04%20PM.png" width="250"></td>
-  </tr>
-  <tr>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.36.06%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.36.08%20PM.png" width="250"></td>
-    <td><img src="Assests/Screenshot%202026-11-02%20at%206.36.16%20PM.png" width="250"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.50 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.53 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.56 PM.png" width="250">
+</p>
 
-</div>
+<p align="center">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.58 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.01 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.04 PM.png" width="250">
+</p>
+
+<p align="center">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.06 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.08 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.16 PM.png" width="250">
+</p>
 
 ---
 
@@ -112,8 +109,6 @@ You can review or change app permissions in **System Settings → Privacy & Secu
 
 ---
 
-<div align="center">
-
-Made with ❤️ for macOS
-
-</div>
+<p align="center">
+  Made with ❤️ for macOS
+</p>
