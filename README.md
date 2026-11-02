@@ -73,7 +73,7 @@ Click or hover over the notch to expand the island and reach everyday tools with
 1. **Clone** this repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/parutechie/Inertia-Notch-Island-MacOS.git
    ```
 
 2. **Open** `NotchApp.xcodeproj` in Xcode.
