@@ -10,7 +10,7 @@ Inertia is a native macOS app that turns the MacBook notch into a compact, inter
 
 <p align="center">
   <img src="Assests/Screenshot 2026-11-02 at 6.34.35 PM.png" alt="Screenshot 1">
-  <img src="Assests/Screenshot 2026-11-02 at 6.35.27 PM.png" alt="Screenshot 2">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.27 PM.png" alt="Screenshot 2">
   <img src="Assests/Screenshot 2026-11-02 at 6.35.47 PM.png" alt="Screenshot 3">
   <img src="Assests/Screenshot 2026-11-02 at 6.35.50 PM.png" alt="Screenshot 4">
   <img src="Assests/Screenshot 2026-11-02 at 6.35.53 PM.png" alt="Screenshot 5">
