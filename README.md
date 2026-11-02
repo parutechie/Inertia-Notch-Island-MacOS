@@ -19,27 +19,27 @@ Click or hover over the notch to expand the island and reach everyday tools with
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Assests/Screenshot 2026-11-02 at 6.34.35 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.35.27 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.35.47 PM.png" width="250">
+   <img src="Assests/Screenshot 2026-11-02 at 6.34.35 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.27 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.47 PM.png" width="180">
 </p>
 
 <p align="center">
-  <img src="Assests/Screenshot 2026-11-02 at 6.35.50 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.35.53 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.35.56 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.50 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.53 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.56 PM.png" width="180">
 </p>
 
 <p align="center">
-  <img src="Assests/Screenshot 2026-11-02 at 6.35.58 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.36.01 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.36.04 PM.png" width="250">
+ <img src="Assests/Screenshot 2026-11-02 at 6.35.58 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.01 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.04 PM.png" width="180">
 </p>
 
 <p align="center">
-  <img src="Assests/Screenshot 2026-11-02 at 6.36.06 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.36.08 PM.png" width="250">
-  <img src="Assests/Screenshot 2026-11-02 at 6.36.16 PM.png" width="250">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.06 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.08 PM.png" width="180">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.16 PM.png" width="180">
 </p>
 
 ---
