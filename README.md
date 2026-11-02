@@ -110,5 +110,5 @@ You can review or change app permissions in **System Settings → Privacy & Secu
 ---
 
 <p align="center">
-  Made with ❤️ for macOS
+  Made with .....
 </p>
