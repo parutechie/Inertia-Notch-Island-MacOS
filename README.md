@@ -3,11 +3,6 @@
 Inertia is a native macOS app that turns the MacBook notch into a compact, interactive workspace. Click or hover over the notch to expand the island and access everyday tools without leaving your current app. It can also show brief, glanceable system-status updates in the same space.
 
 ---
-
-## Screenshots
-
-## Screenshots
-
 ## Screenshots
 
 <p align="center">
