@@ -9,18 +9,18 @@ Inertia is a native macOS app that turns the MacBook notch into a compact, inter
 ## Screenshots
 
 <p align="center">
-  <img src="Assets/Screenshot 2026-11-02 at 6.34.35 PM.png" alt="Screenshot 1">
-  <img src="Assets/Screenshot 2026-11-02 at 6.35.27 PM.png" alt="Screenshot 2">
-  <img src="Assets/Screenshot 2026-11-02 at 6.35.47 PM.png" alt="Screenshot 3">
-  <img src="Assets/Screenshot 2026-11-02 at 6.35.50 PM.png" alt="Screenshot 4">
-  <img src="Assets/Screenshot 2026-11-02 at 6.35.53 PM.png" alt="Screenshot 5">
-  <img src="Assets/Screenshot 2026-11-02 at 6.35.56 PM.png" alt="Screenshot 6">
-  <img src="Assets/Screenshot 2026-11-02 at 6.35.58 PM.png" alt="Screenshot 7">
-  <img src="Assets/Screenshot 2026-11-02 at 6.36.01 PM.png" alt="Screenshot 8">
-  <img src="Assets/Screenshot 2026-11-02 at 6.36.04 PM.png" alt="Screenshot 9">
-  <img src="Assets/Screenshot 2026-11-02 at 6.36.06 PM.png" alt="Screenshot 10">
-  <img src="Assets/Screenshot 2026-11-02 at 6.36.08 PM.png" alt="Screenshot 11">
-  <img src="Assets/Screenshot 2026-11-02 at 6.36.16 PM.png" alt="Screenshot 12">
+  <img src="Assests/Screenshot 2026-11-02 at 6.34.35 PM.png" alt="Screenshot 1">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.27 PM.png" alt="Screenshot 2">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.47 PM.png" alt="Screenshot 3">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.50 PM.png" alt="Screenshot 4">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.53 PM.png" alt="Screenshot 5">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.56 PM.png" alt="Screenshot 6">
+  <img src="Assests/Screenshot 2026-11-02 at 6.35.58 PM.png" alt="Screenshot 7">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.01 PM.png" alt="Screenshot 8">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.04 PM.png" alt="Screenshot 9">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.06 PM.png" alt="Screenshot 10">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.08 PM.png" alt="Screenshot 11">
+  <img src="Assests/Screenshot 2026-11-02 at 6.36.16 PM.png" alt="Screenshot 12">
 </p>
 
 ---
